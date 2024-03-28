@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cay
 - 💞️ I’m looking to collaborate on cats
 - 📫 How to reach me via cat
-- 😄 Pronouns: he she we him her they transabled translucent transformer transaction translation transfer transaction
+- 😄 Pronouns: he she we him her they transabled translucent transformer transaction translation transfer 
 - ⚡ Fun fact: cat
 
 <!---
