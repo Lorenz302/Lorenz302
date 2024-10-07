@@ -2,8 +2,7 @@
 - 👀 I’m interested in cat
 - 🌱 I’m currently learning cat
 - 💞️ I’m looking to collaborate on cats
-- 📫 How to reach me via cat
-- 😄 Pronouns: he she we him her they transabled translucent transformer transaction translation transfer 
+- 📫 How to reach me via cat 
 - ⚡ Fun fact: cat
 
 <!---
